@@ -10,4 +10,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 By making sure that all changes associated with the logical change are in the staging area before committing.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+Branches could be helpful when:
+(1) Doing experimental changes
+(2) Handling one-offs
+(3) Working on demos/prototypes
+
+Branches help in that they keep logical groupings of code together without impacting the main branch.  This is expecially helpful if multiple people are working off the main branch.
