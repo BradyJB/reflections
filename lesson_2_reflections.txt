@@ -6,3 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is the temp directory where files to be committed to the repository are moved.  The value of the staging area is that it allows one to keep track of which files one wants to commit before commiting them.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By making sure that all changes associated with the logical change are in the staging area before committing.
+
+
