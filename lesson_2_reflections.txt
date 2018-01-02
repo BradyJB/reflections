@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git adds hidden system files that start with a period to help git track commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the temp directory where files to be committed to the repository are moved.  The value of the staging area is that it allows one to keep track of which files one wants to commit before commiting them.
+
