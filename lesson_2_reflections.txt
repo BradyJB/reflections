@@ -26,3 +26,9 @@ It's much easier to see and faster understand a visual graph branch structure th
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A combing of all changes (++++ and ----) between multiple branches into a new commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros = saves time, is easy to do, relatively "smart" on what it automatically merges.
+Cons = could occasionally be wrong.  Doesn't auto merge everything.  Still have to manually
+handle conflicts.
