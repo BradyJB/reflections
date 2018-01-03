@@ -18,3 +18,11 @@ Branches could be helpful when:
 (3) Working on demos/prototypes
 
 Branches help in that they keep logical groupings of code together without impacting the main branch.  This is expecially helpful if multiple people are working off the main branch.
+
+How do the diagrams help you visualize the branch structure?
+
+It's much easier to see and faster understand a visual graph branch structure than to read text.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A combing of all changes (++++ and ----) between multiple branches into a new commit.
